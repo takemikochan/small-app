@@ -1,0 +1,5 @@
+{
+  "name": "最小の電卓",
+  "description": "基本的な算術演算を実行する、シンプルでミニマルな電卓アプリケーションです。",
+  "requestFramePermissions": []
+}
